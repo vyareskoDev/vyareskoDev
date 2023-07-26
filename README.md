@@ -1,5 +1,6 @@
-Welcome to my GitHub profile. I'm vyareskoDev;
-I'm novice JS front-end web programmer;
-I have no experience in work;
-I learn React.js, MongoDB and Next.js;
-My email: vyareskodev@gmail.com
+Welcome to my GitHub profile!
+I'm *vyareskoDev*;
+I'm a *fullstack web developer*;
+I have experience in creating different kinds of websites, starting with landing pages and ending with e-shops;
+I mainly use MERN *(MySQL, Express, React, Node.js)* as my development stack;
+My email: *vyareskodev@gmail.com*;
